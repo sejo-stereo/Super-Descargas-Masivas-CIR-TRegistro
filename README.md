@@ -18,7 +18,7 @@ Esta es una versión liberada de mi programa para descargar los PDF de carga mas
 
 7. Despues de descargar, puede renombar los PDF descargados ( DNI + NOMBRES + ALTA/BAJA + HORA.pdf)
 
-Para descargar vaya a lanzamientos (releases) y descargue el ZIP. Tambien puede generar el ejecutable si conoce de Pyinstaller.
+Para descargar vaya a lanzamientos (releases) https://github.com/sejo-stereo/Super-Descargas-Masivas-CIR-TRegistro/releases/tag/beta y descargue el ZIP. Tambien puede generar el ejecutable si conoce de Pyinstaller.
 
 Comparte! Difunde! Y da los créditos a José Melgarejo.
 Linkedin: https://www.linkedin.com/in/josemelgarejomolina/
